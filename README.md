@@ -42,11 +42,11 @@ From the EMG ARV envelope + inertial data it:
 
 Physical-load improvement vs baseline (synthetic):
 
-![improvement](docs/example_improvement.png)
+![improvement](example_improvement.png)
 
 EMG peak detection with dynamic (red ×) / static (blue +) classification:
 
-![emg](docs/example_emg.png)
+![emg](example_emg.png)
 
 ---
 
